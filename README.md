@@ -9,7 +9,7 @@ EFI made for MSI Prestige 15 A10SC with Opencore bootloader
 | IGPU | Intel Graphics UHD 630	|
 | DGPU | Nvidia GTX1650 Max-Q |
 | Display | CMN N156HCE-EN1 FHD (1080p) 60Hz |
-| SSD | NVMe Samsung 970 Evo 1TB |
+| SSD | Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 (SB-RKTQ-2TB) |
 | Audio | Realtek ALC 298 |
 | Wireless | DW1560 Broadcom BCM94352Z |
 
